@@ -2,9 +2,9 @@
 The application simulates a walk in patient clinic, keeping records of all the patients who have visited the clinic.
 
 
-## AVailable Functions
+## Available Functions
 
-// Description: Returns patient's name.
+	// Description: Returns patient's name.
 	string getName() const;
 
 	// Description: Returns patient's address.
